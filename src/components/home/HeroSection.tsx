@@ -58,7 +58,9 @@ export function HeroSection() {
 
                   <h1 className="mt-8 max-w-4xl mx-auto text-balance text-6xl md:text-7xl lg:mt-16 xl:text-[5.25rem] font-bold">
                     Gerencie seu negócio de forma{' '}
-                    <span className="text-gradient">inteligente</span>
+                    <span className="text-gradient inline-block animate-pulse scale-110 font-extrabold tracking-tight">
+                      inteligente
+                    </span>
                   </h1>
                   <p className="mx-auto mt-8 max-w-2xl text-balance text-lg text-muted-foreground">
                     Plataforma completa com controle de estoque, gestão de vendas, CRM, relatórios em tempo real e muito mais. Tudo que você precisa para crescer.
