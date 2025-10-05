@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/cache": "^11.14.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/plus-jakarta-sans": "^5.2.8",
+    "@fontsource/roboto-mono": "^5.2.8",
+    "@hookform/resolvers": "^5.2.2",
+    "@mui/lab": "^7.0.1-beta.18",
+    "@mui/material": "^7.3.4",
+    "@mui/system": "^7.3.3",
+    "@mui/utils": "^7.3.3",
+    "@mui/x-date-pickers": "^8.12.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "apexcharts": "^5.3.5",
+    "dayjs": "^1.11.18",
+    "react-apexcharts": "^1.7.0",
+    "react-hook-form": "^7.64.0",
+    "react-router-dom": "^7.9.3",
+    "zod": "^4.1.11"
+  }
+}
