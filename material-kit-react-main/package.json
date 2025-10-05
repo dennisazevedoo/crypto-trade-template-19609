@@ -1,19 +1,13 @@
 {
-  "name": "material-kit-react",
-  "version": "4.1.0",
-  "author": "Devias",
-  "licence": "MIT",
-  "homepage": "https://devias.io",
-  "private": false,
+  "name": "material-kit-lovable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "lint:fix": "next lint --fix",
-    "typecheck": "tsc --noEmit",
-    "format:write": "prettier --write \"**/*.{js,jsx,mjs,ts,tsx,mdx}\" --cache",
-    "format:check": "prettier --check \"**/*.{js,jsx,mjs,ts,tsx,mdx}\" --cache"
+    "dev": "vite",
+    "build": "vite build",
+    "build:dev": "vite build --mode development",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emotion/cache": "11.14.0",
